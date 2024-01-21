@@ -1,5 +1,9 @@
-body {
-    background-color: green;
-}
 .bg-box {
+    background: url('../images/pole-zelen-trava-dom-derevya.jpg') no-repeat center,
+    url('../images/lamp-png-34914.png') repeat-x top /3%,
+    url('../images/green-png-44873.png') repeat-x bottom /25%,
+    url('../images/58eb07b830eab15b56162788.png') repeat-y right /3%,
+    url('https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru') repeat-y left /3%;
+    background-color: green;
+    height: 800px;
 }
